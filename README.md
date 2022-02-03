@@ -7,7 +7,7 @@ The purpose of this analysis is to first, create a table with the number of reti
  - In the first deliverable, we first created a query to create a retirement titles table for employees born between Jan 1, 1952 & December 31, 1955.
 
  - Then we created a unique titles list that contains the employee number, first and last name, and most recent title:
-  <img width="250" alt="unique_employees" src="https://github.com/msingaram1/Pewlett_Hackard_Analysis/blob/main/unique-titles.png">
+  <img width="400" alt="unique_employees" src="https://github.com/msingaram1/Pewlett_Hackard_Analysis/blob/main/unique-titles.png">
 
   - Finally, saw the number of employees under specific job titles were retiring as follows: 
  <img width="250" alt="retiring_employees" src="https://user-images.githubusercontent.com/36337626/136737191-b3c0d339-9a03-4d21-ac79-350ad7b023f8.png">
