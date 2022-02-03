@@ -4,10 +4,10 @@
 The purpose of this analysis is to first, create a table with the number of retiring employees sorted by job title as well as create a table which will determine which employees are eligible for mentorship. 
 
 ## Results
- - In the first deliverable, we first created a query to create a retirement titles table for employees born between Jan 1, 1952 & December 31, 1955:
-
+ - In the first deliverable, we first created a query to create a retirement titles table for employees born between Jan 1, 1952 & December 31, 1955.
 
  - Then we created a unique titles list that contains the employee number, first and last name, and most recent title:
+  
 
   - Finally, saw the number of employees under specific job titles were retiring as follows: 
  <img width="250" alt="retiring_employees" src="https://user-images.githubusercontent.com/36337626/136737191-b3c0d339-9a03-4d21-ac79-350ad7b023f8.png">
